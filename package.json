@@ -1,0 +1,23 @@
+{
+  "name": "sneakers-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawl.js",
+  "dependencies": {
+    "crawler": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lassebenni/sneakers-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lassebenni/sneakers-scraper/issues"
+  },
+  "homepage": "https://github.com/lassebenni/sneakers-scraper#readme"
+}
